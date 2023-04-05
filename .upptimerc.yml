@@ -7,6 +7,8 @@ sites:
     url: https://ivyfanchiang.ca
   - name: NextCloud
     url: https://nc.ivyfanchiang.ca/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+    headers:
+    - "NC-Token: $NEXTCLOUD_STATUS_TOKEN"
   - name: h5ai
     url: https://files.ivyfanchiang.ca
 
