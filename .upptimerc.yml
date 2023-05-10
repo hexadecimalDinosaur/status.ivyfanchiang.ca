@@ -7,6 +7,10 @@ sites:
     url: https://ivyfanchiang.ca
   - name: "h5ai: files.ivyfanchiang.ca"
     url: https://files.ivyfanchiang.ca
+  - name: "NextCloud"
+    url: $NEXTCLOUD_URL
+    headers:
+        - "NC-Token: $NEXTCLOUD_STATUS_TOKEN"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
