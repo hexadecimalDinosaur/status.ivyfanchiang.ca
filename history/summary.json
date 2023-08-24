@@ -6,8 +6,8 @@
     "slug": "home-ivyfanchiang-ca",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.80%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 303,
@@ -16,7 +16,7 @@
     "timeMonth": 359,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2023-08-24": 17
+      "2023-08-24": 19
     }
   },
   {
@@ -26,9 +26,9 @@
     "slug": "h5ai-files-ivyfanchiang-ca",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "97.69%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "97.25%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
     "time": 274,
     "timeDay": 1276,
@@ -36,7 +36,7 @@
     "timeMonth": 298,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2023-08-24": 33
+      "2023-08-24": 40
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "$NEXTCLOUD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "next-cloud",
-    "status": "down",
-    "uptime": "97.57%",
-    "uptimeDay": "98.83%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "97.57%",
-    "time": 982,
-    "timeDay": 3592,
-    "timeWeek": 1495,
-    "timeMonth": 994,
-    "timeYear": 982,
+    "status": "up",
+    "uptime": "97.56%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "97.56%",
+    "time": 980,
+    "timeDay": 2648,
+    "timeWeek": 1413,
+    "timeMonth": 987,
+    "timeYear": 980,
     "dailyMinutesDown": {
-      "2023-08-24": 17,
+      "2023-08-24": 22,
       "2023-06-27": 235,
       "2023-06-26": 1440,
       "2023-06-25": 1440,
@@ -70,18 +70,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hedge-doc",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 511,
     "timeDay": 3374,
     "timeWeek": 1132,
     "timeMonth": 634,
     "timeYear": 511,
     "dailyMinutesDown": {
-      "2023-08-24": 0
+      "2023-08-24": 6
     }
   }
 ]
