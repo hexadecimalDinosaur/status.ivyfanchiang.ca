@@ -6,17 +6,17 @@
     "slug": "home-ivyfanchiang-ca",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.66%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 303,
-    "timeDay": 2263,
-    "timeWeek": 693,
-    "timeMonth": 359,
-    "timeYear": 303,
+    "time": 323,
+    "timeDay": 2545,
+    "timeWeek": 961,
+    "timeMonth": 443,
+    "timeYear": 323,
     "dailyMinutesDown": {
-      "2023-08-24": 19
+      "2023-08-24": 22
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://files.ivyfanchiang.ca",
     "icon": "https://icons.duckduckgo.com/ip3/files.ivyfanchiang.ca.ico",
     "slug": "h5ai-files-ivyfanchiang-ca",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "97.25%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "97.04%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
-    "time": 274,
-    "timeDay": 1276,
-    "timeWeek": 447,
-    "timeMonth": 298,
-    "timeYear": 274,
+    "time": 321,
+    "timeDay": 3250,
+    "timeWeek": 1197,
+    "timeMonth": 507,
+    "timeYear": 321,
     "dailyMinutesDown": {
-      "2023-08-24": 40
+      "2023-08-24": 43
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "next-cloud",
     "status": "up",
-    "uptime": "97.56%",
-    "uptimeDay": "98.45%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "97.56%",
+    "uptime": "97.57%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "97.57%",
     "time": 980,
     "timeDay": 2648,
     "timeWeek": 1413,
     "timeMonth": 987,
     "timeYear": 980,
     "dailyMinutesDown": {
-      "2023-08-24": 22,
+      "2023-08-24": 16,
       "2023-06-27": 235,
       "2023-06-26": 1440,
       "2023-06-25": 1440,
@@ -71,9 +71,9 @@
     "slug": "hedge-doc",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 511,
     "timeDay": 3374,
@@ -81,7 +81,7 @@
     "timeMonth": 634,
     "timeYear": 511,
     "dailyMinutesDown": {
-      "2023-08-24": 6
+      "2023-08-24": 10
     }
   }
 ]
