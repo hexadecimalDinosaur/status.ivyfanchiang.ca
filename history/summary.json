@@ -22,10 +22,10 @@
     "url": "https://files.ivyfanchiang.ca",
     "icon": "https://icons.duckduckgo.com/ip3/files.ivyfanchiang.ca.ico",
     "slug": "h5ai-files-ivyfanchiang-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 260,
@@ -33,7 +33,9 @@
     "timeWeek": 193,
     "timeMonth": 235,
     "timeYear": 260,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-24": 1
+    }
   },
   {
     "name": "NextCloud",
@@ -41,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "next-cloud",
     "status": "up",
-    "uptime": "97.57%",
+    "uptime": "97.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.57%",
+    "uptimeYear": "97.58%",
     "time": 934,
     "timeDay": 930,
     "timeWeek": 815,
