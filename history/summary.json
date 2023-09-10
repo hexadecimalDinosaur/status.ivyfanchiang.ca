@@ -11,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 312,
-    "timeDay": 168,
+    "timeDay": 275,
     "timeWeek": 204,
-    "timeMonth": 437,
+    "timeMonth": 440,
     "timeYear": 312,
     "dailyMinutesDown": {
       "2023-08-24": 17
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 311,
-    "timeDay": 193,
-    "timeWeek": 216,
-    "timeMonth": 495,
-    "timeYear": 311,
+    "time": 310,
+    "timeDay": 147,
+    "timeWeek": 194,
+    "timeMonth": 494,
+    "timeYear": 310,
     "dailyMinutesDown": {
       "2023-08-24": 32
     }
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "next-cloud",
     "status": "up",
-    "uptime": "97.88%",
+    "uptime": "97.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "97.88%",
-    "time": 960,
-    "timeDay": 747,
-    "timeWeek": 833,
-    "timeMonth": 999,
-    "timeYear": 960,
+    "uptimeYear": "97.90%",
+    "time": 958,
+    "timeDay": 737,
+    "timeWeek": 807,
+    "timeMonth": 997,
+    "timeYear": 958,
     "dailyMinutesDown": {
       "2023-08-24": 16,
       "2023-06-27": 235,
@@ -75,11 +75,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 561,
-    "timeDay": 381,
+    "time": 560,
+    "timeDay": 464,
     "timeWeek": 379,
-    "timeMonth": 816,
-    "timeYear": 561,
+    "timeMonth": 818,
+    "timeYear": 560,
     "dailyMinutesDown": {
       "2023-08-24": 15
     }
