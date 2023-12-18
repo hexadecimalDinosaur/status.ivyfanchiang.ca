@@ -1,7 +1,7 @@
 url: $HEDGEDOC_URL
-status: up
-code: 200
-responseTime: 785
-lastUpdated: 2023-12-17T23:14:22.229Z
+status: down
+code: 502
+responseTime: 393
+lastUpdated: 2023-12-18T06:28:10.508Z
 startTime: 2023-05-28T02:10:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
