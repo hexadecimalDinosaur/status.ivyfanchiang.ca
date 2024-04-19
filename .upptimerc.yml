@@ -11,8 +11,10 @@ sites:
     url: $NEXTCLOUD_URL
     headers:
         - "NC-Token: $NEXTCLOUD_STATUS_TOKEN"
+    icon: $NEXTCLOUD_ICON
   - name: "HedgeDoc"
     url: $HEDGEDOC_URL
+    icon: "$HEDGEDOC_URL/icons/apple-touch-icon.png"
   - name: "Shaarli: shaarli.ivyfanchiang.ca"
     url: https://shaarli.ivyfanchiang.ca/
 
