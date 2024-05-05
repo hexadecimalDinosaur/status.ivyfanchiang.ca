@@ -44,11 +44,11 @@
     "url": "$NEXTCLOUD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "next-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "97.22%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "97.22%",
     "time": 1200,
     "timeDay": 651,
@@ -56,6 +56,7 @@
     "timeMonth": 1087,
     "timeYear": 1200,
     "dailyMinutesDown": {
+      "2024-05-05": 3,
       "2023-12-18": 235,
       "2023-11-26": 74,
       "2023-11-25": 25,
@@ -86,10 +87,10 @@
     "url": "$HEDGEDOC_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hedge-doc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.21%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.21%",
     "time": 623,
@@ -98,6 +99,7 @@
     "timeMonth": 432,
     "timeYear": 623,
     "dailyMinutesDown": {
+      "2024-05-05": 2,
       "2023-12-18": 188,
       "2023-11-26": 73,
       "2023-11-25": 21,
@@ -117,9 +119,9 @@
     "url": "https://shaarli.ivyfanchiang.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/shaarli.ivyfanchiang.ca.ico",
     "slug": "shaarli-shaarli-ivyfanchiang-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -128,6 +130,8 @@
     "timeWeek": 291,
     "timeMonth": 343,
     "timeYear": 376,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-05": 0
+    }
   }
 ]
