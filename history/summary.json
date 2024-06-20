@@ -45,7 +45,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "next-cloud",
     "status": "up",
-    "uptime": "97.49%",
+    "uptime": "97.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -120,9 +120,9 @@
     "url": "https://shaarli.ivyfanchiang.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/shaarli.ivyfanchiang.ca.ico",
     "slug": "shaarli-shaarli-ivyfanchiang-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
@@ -132,6 +132,7 @@
     "timeMonth": 944,
     "timeYear": 499,
     "dailyMinutesDown": {
+      "2024-06-20": 0,
       "2024-05-14": 195,
       "2024-05-05": 40
     }
