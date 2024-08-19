@@ -13,7 +13,7 @@
     "time": 356,
     "timeDay": 285,
     "timeWeek": 318,
-    "timeMonth": 210,
+    "timeMonth": 213,
     "timeYear": 382,
     "dailyMinutesDown": {
       "2023-08-24": 17
@@ -33,7 +33,7 @@
     "time": 319,
     "timeDay": 373,
     "timeWeek": 1009,
-    "timeMonth": 465,
+    "timeMonth": 476,
     "timeYear": 339,
     "dailyMinutesDown": {
       "2023-08-24": 32
@@ -53,7 +53,7 @@
     "time": 1155,
     "timeDay": 799,
     "timeWeek": 1377,
-    "timeMonth": 1056,
+    "timeMonth": 1095,
     "timeYear": 1211,
     "dailyMinutesDown": {
       "2024-07-10": 28,
@@ -95,7 +95,7 @@
     "time": 567,
     "timeDay": 341,
     "timeWeek": 315,
-    "timeMonth": 284,
+    "timeMonth": 291,
     "timeYear": 592,
     "dailyMinutesDown": {
       "2024-07-10": 26,
@@ -129,7 +129,7 @@
     "time": 589,
     "timeDay": 535,
     "timeWeek": 653,
-    "timeMonth": 1038,
+    "timeMonth": 850,
     "timeYear": 589,
     "dailyMinutesDown": {
       "2024-07-10": 23,
@@ -142,17 +142,19 @@
     "url": "https://fedi.underpowe.red/",
     "icon": "https://icons.duckduckgo.com/ip3/fedi.underpowe.red.ico",
     "slug": "akkoma-fedi-underpowe-red",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 382,
-    "timeDay": 686,
-    "timeWeek": 322,
-    "timeMonth": 406,
+    "timeDay": 539,
+    "timeWeek": 332,
+    "timeMonth": 413,
     "timeYear": 382,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-19": 0
+    }
   }
 ]
