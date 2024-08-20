@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 356,
-    "timeDay": 285,
-    "timeWeek": 318,
-    "timeMonth": 213,
-    "timeYear": 382,
+    "time": 365,
+    "timeDay": 4742,
+    "timeWeek": 1083,
+    "timeMonth": 367,
+    "timeYear": 394,
     "dailyMinutesDown": {
       "2023-08-24": 17
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 319,
-    "timeDay": 373,
-    "timeWeek": 1009,
-    "timeMonth": 476,
+    "timeDay": 433,
+    "timeWeek": 1053,
+    "timeMonth": 487,
     "timeYear": 339,
     "dailyMinutesDown": {
       "2023-08-24": 32
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.90%",
     "time": 1155,
-    "timeDay": 799,
-    "timeWeek": 1377,
-    "timeMonth": 1095,
+    "timeDay": 882,
+    "timeWeek": 1413,
+    "timeMonth": 1104,
     "timeYear": 1211,
     "dailyMinutesDown": {
       "2024-07-10": 28,
@@ -93,10 +93,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.21%",
     "time": 567,
-    "timeDay": 341,
-    "timeWeek": 315,
-    "timeMonth": 291,
-    "timeYear": 592,
+    "timeDay": 367,
+    "timeWeek": 339,
+    "timeMonth": 296,
+    "timeYear": 591,
     "dailyMinutesDown": {
       "2024-07-10": 26,
       "2024-05-14": 196,
@@ -127,9 +127,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 589,
-    "timeDay": 535,
-    "timeWeek": 653,
-    "timeMonth": 850,
+    "timeDay": 616,
+    "timeWeek": 543,
+    "timeMonth": 828,
     "timeYear": 589,
     "dailyMinutesDown": {
       "2024-07-10": 23,
@@ -143,18 +143,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fedi.underpowe.red.ico",
     "slug": "akkoma-fedi-underpowe-red",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 387,
-    "timeDay": 559,
-    "timeWeek": 365,
-    "timeMonth": 419,
-    "timeYear": 387,
-    "dailyMinutesDown": {
-      "2024-08-19": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 388,
+    "timeDay": 478,
+    "timeWeek": 400,
+    "timeMonth": 430,
+    "timeYear": 388,
+    "dailyMinutesDown": {}
   }
 ]
