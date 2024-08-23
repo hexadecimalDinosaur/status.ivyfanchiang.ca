@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 364,
-    "timeDay": 143,
-    "timeWeek": 817,
-    "timeMonth": 366,
+    "timeDay": 392,
+    "timeWeek": 854,
+    "timeMonth": 374,
     "timeYear": 394,
-    "dailyMinutesDown": {
-      "2023-08-24": 17
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "h5ai: files.ivyfanchiang.ca",
@@ -31,13 +29,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 319,
-    "timeDay": 139,
-    "timeWeek": 208,
-    "timeMonth": 349,
+    "timeDay": 244,
+    "timeWeek": 229,
+    "timeMonth": 354,
     "timeYear": 339,
-    "dailyMinutesDown": {
-      "2023-08-24": 32
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "NextCloud",
@@ -45,15 +41,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "next-cloud",
     "status": "up",
-    "uptime": "97.82%",
+    "uptime": "97.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.90%",
-    "time": 1151,
-    "timeDay": 590,
-    "timeWeek": 688,
-    "timeMonth": 1069,
+    "time": 1150,
+    "timeDay": 748,
+    "timeWeek": 690,
+    "timeMonth": 941,
     "timeYear": 1208,
     "dailyMinutesDown": {
       "2024-07-10": 28,
@@ -77,8 +73,7 @@
       "2023-09-16": 815,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
-      "2023-09-13": 729,
-      "2023-08-24": 16
+      "2023-09-13": 729
     }
   },
   {
@@ -93,10 +88,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.21%",
     "time": 565,
-    "timeDay": 130,
-    "timeWeek": 294,
-    "timeMonth": 288,
-    "timeYear": 590,
+    "timeDay": 572,
+    "timeWeek": 340,
+    "timeMonth": 300,
+    "timeYear": 591,
     "dailyMinutesDown": {
       "2024-07-10": 26,
       "2024-05-14": 196,
@@ -111,8 +106,7 @@
       "2023-09-20": 639,
       "2023-09-19": 134,
       "2023-09-18": 536,
-      "2023-09-13": 562,
-      "2023-08-24": 15
+      "2023-09-13": 562
     }
   },
   {
@@ -127,9 +121,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 586,
-    "timeDay": 257,
-    "timeWeek": 518,
-    "timeMonth": 795,
+    "timeDay": 550,
+    "timeWeek": 419,
+    "timeMonth": 805,
     "timeYear": 586,
     "dailyMinutesDown": {
       "2024-07-10": 23,
@@ -148,11 +142,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 379,
-    "timeDay": 172,
-    "timeWeek": 351,
-    "timeMonth": 422,
-    "timeYear": 379,
+    "time": 382,
+    "timeDay": 550,
+    "timeWeek": 386,
+    "timeMonth": 328,
+    "timeYear": 382,
     "dailyMinutesDown": {}
   }
 ]
