@@ -50,7 +50,7 @@
     "timeDay": 836,
     "timeWeek": 813,
     "timeMonth": 944,
-    "timeYear": 1179,
+    "timeYear": 1176,
     "dailyMinutesDown": {
       "2024-07-10": 28,
       "2024-06-26": 12,
@@ -127,19 +127,19 @@
     "url": "https://fedi.underpowe.red/",
     "icon": "https://icons.duckduckgo.com/ip3/fedi.underpowe.red.ico",
     "slug": "akkoma-fedi-underpowe-red",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 343,
-    "timeDay": 330,
-    "timeWeek": 369,
+    "timeDay": 323,
+    "timeWeek": 362,
     "timeMonth": 306,
     "timeYear": 343,
     "dailyMinutesDown": {
-      "2024-09-18": 0
+      "2024-09-18": 9
     }
   }
 ]
