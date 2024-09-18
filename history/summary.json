@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 383,
-    "timeDay": 114,
-    "timeWeek": 812,
-    "timeMonth": 736,
+    "timeDay": 283,
+    "timeWeek": 273,
+    "timeMonth": 742,
     "timeYear": 407,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 314,
-    "timeDay": 135,
-    "timeWeek": 221,
-    "timeMonth": 207,
+    "timeDay": 296,
+    "timeWeek": 244,
+    "timeMonth": 212,
     "timeYear": 314,
     "dailyMinutesDown": {}
   },
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.75%",
     "time": 1143,
-    "timeDay": 741,
-    "timeWeek": 787,
-    "timeMonth": 938,
+    "timeDay": 836,
+    "timeWeek": 813,
+    "timeMonth": 944,
     "timeYear": 1196,
     "dailyMinutesDown": {
       "2024-07-10": 28,
@@ -67,8 +67,7 @@
       "2023-10-02": 588,
       "2023-10-01": 610,
       "2023-09-21": 1222,
-      "2023-09-20": 677,
-      "2023-09-19": 922
+      "2023-09-20": 677
     }
   },
   {
@@ -77,15 +76,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hedge-doc",
     "status": "up",
-    "uptime": "99.39%",
+    "uptime": "99.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.32%",
     "time": 555,
-    "timeDay": 813,
-    "timeWeek": 558,
-    "timeMonth": 367,
+    "timeDay": 290,
+    "timeWeek": 563,
+    "timeMonth": 365,
     "timeYear": 558,
     "dailyMinutesDown": {
       "2024-07-10": 26,
@@ -98,8 +97,7 @@
       "2023-10-19": 335,
       "2023-10-04": 562,
       "2023-10-01": 460,
-      "2023-09-20": 639,
-      "2023-09-19": 134
+      "2023-09-20": 639
     }
   },
   {
@@ -114,9 +112,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 576,
-    "timeDay": 265,
-    "timeWeek": 375,
-    "timeMonth": 475,
+    "timeDay": 505,
+    "timeWeek": 405,
+    "timeMonth": 482,
     "timeYear": 576,
     "dailyMinutesDown": {
       "2024-07-10": 23,
@@ -136,9 +134,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 343,
-    "timeDay": 181,
-    "timeWeek": 342,
-    "timeMonth": 303,
+    "timeDay": 330,
+    "timeWeek": 369,
+    "timeMonth": 306,
     "timeYear": 343,
     "dailyMinutesDown": {}
   }
