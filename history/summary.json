@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 383,
-    "timeDay": 283,
-    "timeWeek": 273,
-    "timeMonth": 742,
-    "timeYear": 407,
+    "timeDay": 364,
+    "timeWeek": 259,
+    "timeMonth": 744,
+    "timeYear": 408,
     "dailyMinutesDown": {}
   },
   {
@@ -30,9 +30,9 @@
     "uptimeYear": "100.00%",
     "time": 314,
     "timeDay": 296,
-    "timeWeek": 244,
-    "timeMonth": 212,
-    "timeYear": 314,
+    "timeWeek": 236,
+    "timeMonth": 210,
+    "timeYear": 315,
     "dailyMinutesDown": {}
   },
   {
@@ -41,16 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "next-cloud",
     "status": "up",
-    "uptime": "97.94%",
+    "uptime": "97.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.79%",
-    "time": 1143,
-    "timeDay": 836,
-    "timeWeek": 813,
+    "uptimeYear": "98.86%",
+    "time": 1142,
+    "timeDay": 795,
+    "timeWeek": 789,
     "timeMonth": 944,
-    "timeYear": 1176,
+    "timeYear": 1134,
     "dailyMinutesDown": {
       "2024-07-10": 28,
       "2024-06-26": 12,
@@ -66,8 +66,7 @@
       "2023-10-03": 96,
       "2023-10-02": 588,
       "2023-10-01": 610,
-      "2023-09-21": 1222,
-      "2023-09-20": 677
+      "2023-09-21": 1222
     }
   },
   {
@@ -80,11 +79,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.36%",
+    "uptimeYear": "99.42%",
     "time": 555,
-    "timeDay": 290,
-    "timeWeek": 563,
-    "timeMonth": 365,
+    "timeDay": 469,
+    "timeWeek": 506,
+    "timeMonth": 369,
     "timeYear": 558,
     "dailyMinutesDown": {
       "2024-07-10": 26,
@@ -96,8 +95,7 @@
       "2023-11-11": 375,
       "2023-10-19": 335,
       "2023-10-04": 562,
-      "2023-10-01": 460,
-      "2023-09-20": 639
+      "2023-10-01": 460
     }
   },
   {
@@ -111,11 +109,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 576,
-    "timeDay": 505,
-    "timeWeek": 405,
+    "time": 575,
+    "timeDay": 518,
+    "timeWeek": 418,
     "timeMonth": 482,
-    "timeYear": 576,
+    "timeYear": 575,
     "dailyMinutesDown": {
       "2024-07-10": 23,
       "2024-05-14": 195,
@@ -128,18 +126,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fedi.underpowe.red.ico",
     "slug": "akkoma-fedi-underpowe-red",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 343,
-    "timeDay": 323,
-    "timeWeek": 362,
-    "timeMonth": 306,
+    "timeDay": 342,
+    "timeWeek": 302,
+    "timeMonth": 298,
     "timeYear": 343,
-    "dailyMinutesDown": {
-      "2024-09-18": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
