@@ -4,7 +4,7 @@
     "url": "https://ivyfanchiang.ca",
     "icon": "https://icons.duckduckgo.com/ip3/ivyfanchiang.ca.ico",
     "slug": "home-ivyfanchiang-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.12%",
@@ -16,6 +16,7 @@
     "timeMonth": 387,
     "timeYear": 510,
     "dailyMinutesDown": {
+      "2025-02-02": 0,
       "2025-01-31": 89
     }
   },
@@ -47,7 +48,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "next-cloud",
     "status": "up",
-    "uptime": "98.37%",
+    "uptime": "98.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.83%",
