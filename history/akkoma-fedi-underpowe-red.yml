@@ -1,7 +1,7 @@
 url: https://fedi.underpowe.red/
-status: up
-code: 200
-responseTime: 157
-lastUpdated: 2025-02-10T23:05:06.506Z
+status: down
+code: 502
+responseTime: 54
+lastUpdated: 2025-02-11T09:00:04.507Z
 startTime: 2024-07-09T15:27:52.654Z
 generator: Upptime <https://github.com/upptime/upptime>
