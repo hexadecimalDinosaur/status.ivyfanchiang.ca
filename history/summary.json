@@ -125,18 +125,20 @@
     "url": "https://fedi.underpowe.red/",
     "icon": "https://icons.duckduckgo.com/ip3/fedi.underpowe.red.ico",
     "slug": "akkoma-fedi-underpowe-red",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 331,
-    "timeDay": 90,
-    "timeWeek": 316,
+    "time": 330,
+    "timeDay": 168,
+    "timeWeek": 308,
     "timeMonth": 269,
-    "timeYear": 331,
-    "dailyMinutesDown": {}
+    "timeYear": 330,
+    "dailyMinutesDown": {
+      "2025-03-02": 0
+    }
   },
   {
     "name": "Authentik",
