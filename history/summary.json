@@ -132,19 +132,19 @@
     "url": "https://fedi.underpowe.red/",
     "icon": "https://icons.duckduckgo.com/ip3/fedi.underpowe.red.ico",
     "slug": "akkoma-fedi-underpowe-red",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 363,
-    "timeDay": 295,
-    "timeWeek": 1349,
-    "timeMonth": 824,
+    "timeDay": 298,
+    "timeWeek": 1254,
+    "timeMonth": 809,
     "timeYear": 363,
     "dailyMinutesDown": {
-      "2025-06-09": 0
+      "2025-06-09": 12
     }
   },
   {
