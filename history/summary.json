@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 418,
-    "timeDay": 130,
-    "timeWeek": 168,
-    "timeMonth": 131,
-    "timeYear": 341,
+    "timeDay": 84,
+    "timeWeek": 162,
+    "timeMonth": 133,
+    "timeYear": 340,
     "dailyMinutesDown": {
       "2025-02-09": 35,
       "2025-01-31": 89
@@ -32,8 +32,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 306,
-    "timeDay": 145,
-    "timeWeek": 209,
+    "timeDay": 132,
+    "timeWeek": 205,
     "timeMonth": 163,
     "timeYear": 262,
     "dailyMinutesDown": {
@@ -55,9 +55,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.40%",
     "time": 848,
-    "timeDay": 739,
-    "timeWeek": 760,
-    "timeMonth": 707,
+    "timeDay": 703,
+    "timeWeek": 761,
+    "timeMonth": 708,
     "timeYear": 810,
     "dailyMinutesDown": {
       "2025-05-21": 50,
@@ -70,8 +70,7 @@
       "2025-01-09": 56,
       "2024-12-22": 37,
       "2024-07-10": 28,
-      "2024-06-26": 12,
-      "2024-06-25": 3
+      "2024-06-26": 12
     }
   },
   {
@@ -86,10 +85,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.40%",
     "time": 378,
-    "timeDay": 238,
-    "timeWeek": 283,
-    "timeMonth": 331,
-    "timeYear": 381,
+    "timeDay": 161,
+    "timeWeek": 274,
+    "timeMonth": 328,
+    "timeYear": 382,
     "dailyMinutesDown": {
       "2025-05-21": 48,
       "2025-05-01": 1340,
@@ -113,8 +112,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.43%",
     "time": 579,
-    "timeDay": 353,
-    "timeWeek": 423,
+    "timeDay": 313,
+    "timeWeek": 419,
     "timeMonth": 379,
     "timeYear": 615,
     "dailyMinutesDown": {
@@ -134,18 +133,16 @@
     "slug": "akkoma-fedi-underpowe-red",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 396,
-    "timeDay": 6649,
-    "timeWeek": 1539,
-    "timeMonth": 1145,
-    "timeYear": 396,
-    "dailyMinutesDown": {
-      "2025-06-24": 10
-    }
+    "time": 402,
+    "timeDay": 7956,
+    "timeWeek": 1791,
+    "timeMonth": 1212,
+    "timeYear": 402,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Authentik",
@@ -153,15 +150,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "authentik",
     "status": "up",
-    "uptime": "96.57%",
+    "uptime": "96.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.50%",
-    "uptimeYear": "96.57%",
+    "uptimeYear": "96.58%",
     "time": 684,
-    "timeDay": 709,
-    "timeWeek": 755,
-    "timeMonth": 718,
+    "timeDay": 678,
+    "timeWeek": 748,
+    "timeMonth": 720,
     "timeYear": 684,
     "dailyMinutesDown": {
       "2025-06-12": 765,
