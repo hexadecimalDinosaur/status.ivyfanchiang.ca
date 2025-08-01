@@ -1,7 +1,7 @@
 url: $AUTHENTIK_URL
-status: down
-code: 502
-responseTime: 293
-lastUpdated: 2025-08-01T10:13:10.416Z
+status: up
+code: 200
+responseTime: 908
+lastUpdated: 2025-08-01T10:20:06.058Z
 startTime: 2025-01-31T20:47:23.342Z
 generator: Upptime <https://github.com/upptime/upptime>
